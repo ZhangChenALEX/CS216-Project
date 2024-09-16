@@ -1,2 +1,2 @@
 # CS216-Project
-Places to store our data.
+Places to store our data and files.
